@@ -1,0 +1,10 @@
+{
+  "messages": [
+    { "id": 1, "msg": "Hello my name is Kate" },
+    { "id": 2, "msg": "I will need to think about this for a while" },
+    { "id": 3, "msg": "The answer look very good" }
+  ],
+  "profile": {
+    "name": "name"
+  }
+}
