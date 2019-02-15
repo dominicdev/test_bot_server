@@ -4,6 +4,11 @@
     { "id": 2, "msg": "I will need to think about this for a while" },
     { "id": 3, "msg": "The answer look very good" }
   ],
+  "idle": [
+    { "id": 1, "msg": "Hi" },
+    { "id": 2, "msg": "I'm listening" },
+    { "id": 3, "msg": "Hey" }
+  ],
   "profile": {
     "name": "name"
   }
